@@ -8,9 +8,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFLRoadStatus.BL", "TFLRoadStatus.BL\TFLRoadStatus.BL.csproj", "{D2F44D26-36C4-4C0B-884C-5C0EB9E2F3BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{2ADB30D5-3DE0-4509-9BA1-3CCA8E39A398}"
-	ProjectSection(SolutionItems) = preProject
-		..\TflRoadStatus-master\README.md = ..\TflRoadStatus-master\README.md
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3B83095B-1DB8-40BB-B337-3C08792F0564}"
 EndProject
